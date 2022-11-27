@@ -1,0 +1,1 @@
+# This SQLProject was done to get an early hands on.The project was done from a public dataset with the help of publicily available solution.This solution is no way exclusive.It is mostly done as a beginner for training purposes and posted on github as a public record for my own benefit.
